@@ -86,11 +86,11 @@ with st.sidebar:
     st.header("Components")
     st.markdown(
         """
-        #### [Energizing Critical Facilities](#energizing-critical-facilities)
-        Under Sub-components **1.2** and **1.3**, the project scales up off-grid electricity access to health, education, and water facilities, and supports COVID-19 isolation and vaccine cold-chain units through reliable solar power systems.
-
         #### [Electrifying Households](#electrifying-households)
         Under Sub-component **1.1**, the project expands access to off-grid solar systems for rural and peri-urban households by empowering microfinance institutions and scaling household electrification across Yemen.
+ 
+        #### [Energizing Critical Facilities](#energizing-critical-facilities)
+        Under Sub-components **1.2** and **1.3**, the project scales up off-grid electricity access to health, education, and water facilities, and supports COVID-19 isolation and vaccine cold-chain units through reliable solar power systems.
         """,
         unsafe_allow_html=True,
     )
@@ -104,9 +104,8 @@ st.title("YEEAP II Project Monitoring Dashboard")
 # ----------------------------------
 
 with st.container(border=True):
-
     a, b = st.columns([0.8, 0.2], vertical_alignment="bottom")
-    a.header("Electrifying Households")
+    a.header("Electrifying Households (TBC)")
     with b.container():
         if st.button("Open MFI Dashboard", use_container_width=True,  type='primary'):
             st.switch_page("")
