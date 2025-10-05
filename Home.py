@@ -3,6 +3,45 @@ from src.facilities_overview_dashboard_helper import load_data, extract_all_faci
 import datetime
 import pandas as pd
 
+# --------------------------------------
+# Page setup (must come first)
+# --------------------------------------
+st.set_page_config(
+    page_title="0_YEEAP_II_Analytics",
+    layout="wide",
+    initial_sidebar_state="collapsed",  # ✅ hides sidebar initially
+)
+
+# --------------------------------------
+# Simple password protection
+# --------------------------------------
+PASSWORD = "yeeap2025"  # fake password for now
+
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
+
+if not st.session_state.authenticated:
+    # Hide sidebar (even if user expands it manually)
+    hide_sidebar_style = """
+        <style>
+            [data-testid="stSidebar"] {display: none;}
+            footer {visibility: hidden;}
+        </style>
+    """
+    st.markdown(hide_sidebar_style, unsafe_allow_html=True)
+
+    st.title("🔒 YEEAP II Dashboard Login")
+    pwd = st.text_input("Enter password:", type="password")
+    if st.button("Login"):
+        if pwd == PASSWORD:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("Incorrect password. Please try again.")
+
+    st.stop()  # 🚫 stop app here until logged in
+# Main App (after login)
+# --------------------------------------
 
 st.set_page_config(
     page_title="0_YEEAP_II_Analytics",
