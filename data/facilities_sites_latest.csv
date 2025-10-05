@@ -1,0 +1,712 @@
+facility_id,latitude,longitude,type,status,governorate
+HAD-SCH-01,15.546326,49.347984,School,Energized,Hadramawt
+HAD-SCH-02,15.32405,48.320344,School,Energized,Hadramawt
+HAD-SCH-03,14.765667,49.372728,School,Energized,Hadramawt
+HAD-SCH-04,14.942097,50.34198,School,Energized,Hadramawt
+HAD-HF-01,15.037327,50.478479,Clinic,Energized,Hadramawt
+HAD-HF-02,14.939981,50.337068,Clinic,Energized,Hadramawt
+HAD-SCH-05,16.049705,48.975952,School,Energized,Hadramawt
+HAD-SCH-06,15.84246,48.481705,School,Energized,Hadramawt
+HAD-SCH-07,15.955961,48.677001,School,Energized,Hadramawt
+HAD-SCH-08,15.42023,48.056131,School,Energized,Hadramawt
+HAD-HF-03,15.405247,47.764976,Clinic,Energized,Hadramawt
+HAD-HF-04,15.31756,47.990719,Clinic,Energized,Hadramawt
+HAD-HF-05,16.1422373,49.291223,Clinic,Energized,Hadramawt
+SHA-SCH-01,14.99659,46.854483,School,Energized,Shabwah
+SHA-SCH-02,14.349974,47.078423,School,Energized,Shabwah
+SHA-SCH-03,14.4326,46.152874,School,Energized,Shabwah
+SHA-SCH-04,14.999359,47.173228,School,Energized,Shabwah
+SHA-SCH-05,14.368332,46.910948,School,Energized,Shabwah
+SHA-SCH-06,14.521533,46.852196,School,Energized,Shabwah
+SHA-SCH-07,14.538336,46.827681,School,Energized,Shabwah
+SHA-HF-01,14.217443,47.165805,Clinic,Energized,Shabwah
+SHA-HF-02,15.15487,47.402301,Clinic,Energized,Shabwah
+SHA-HF-03,14.986835,45.789649,Clinic,Energized,Shabwah
+SHA-HF-04,14.476546,47.273253,Clinic,Energized,Shabwah
+SHA-HF-05,14.312601,46.670971,Clinic,Energized,Shabwah
+SHA-HF-06,14.092906,47.725827,Clinic,Energized,Shabwah
+MHR-SCH-03,15.430968,51.688211,School,Energized,Al Maharah
+MHR-SCH-05,15.209743,51.252464,School,Energized,Al Maharah
+MHR-SCH-04,16.229806,52.187072,School,Energized,Al Maharah
+MHR-SCH-01,15.633166,52.162804,School,Energized,Al Maharah
+MHR-SCH-02,15.235521,51.11021,School,Energized,Al Maharah
+MHR-HF-01,15.906818,50.971675,Clinic,Energized,Al Maharah
+MHR-HF-02,17.801092,52.547247,Clinic,Energized,Al Maharah
+MHR-HF-03,16.455113,50.527976,Clinic,Energized,Al Maharah
+LAH-HF-01,13.2395,44.38818,Clinic,Energized,Lahj
+LAH-SCH-01,13.87671,45.21305,School,Energized,Lahj
+LAH-SCH-02,13.77411,45.22018,School,Energized,Lahj
+LAH-SCH-03,12.99506,44.91443,School,Energized,Lahj
+LAH-SCH-04,13.885818,45.224311,School,Energized,Lahj
+LAH-SCH-05,13.871667,45.25388,School,Energized,Lahj
+ADN-SCH-01,12.88339,44.977996,School,Energized,Aden
+ADN-SCH-02,12.838791,44.9564,School,Energized,Aden
+ADN-SCH-03,12.836111,44.9475,School,Energized,Aden
+ADN-SCH-04,12.861722,44.995667,School,Energized,Aden
+ADN-SCH-05,12.873556,44.979722,School,Energized,Aden
+ADN-SCH-06,12.875,45.008611,School,Energized,Aden
+DAL-SCH-01,13.698889,44.731667,School,Energized,Ad Dali
+DAL-SCH-02,13.7175,44.722778,School,Energized,Ad Dali
+DAL-SCH-03,13.793689,44.720595,School,Energized,Ad Dali
+DAL-SCH-04,13.806944,44.708611,School,Energized,Ad Dali
+DAL-SCH-05,13.671832,44.71078,School,Energized,Ad Dali
+TAZ-HF-01,13.32862,44.08366,Clinic,Energized,Taiz
+TAZ-HF-02,13.54129,43.99725,Clinic,Energized,Taiz
+TAZ-SCH-01,13.12137,43.32702,School,Energized,Taiz
+TAZ-SCH-02,13.34813,44.0196,School,Energized,Taiz
+ABY-SCH-01,14.132725,43.390203,School,Energized,Abyan
+ABY-SCH-02,15.23685,43.238844,School,Energized,Abyan
+ABY-SCH-03,15.327442,43.168225,School,Energized,Abyan
+ABY-HF-01,14.684006,43.328747,Clinic,Energized,Abyan
+HUD-HF-01,14.676056,43.550539,Clinic,Energized,Al Hodeidah
+HUD-HF-02,14.578203,43.639961,Clinic,Energized,Al Hodeidah
+HUD-HF-03,14.649647,43.691425,Clinic,Energized,Al Hodeidah
+HUD-HF-04,14.010236,45.565268,Clinic,Energized,Al Hodeidah
+RMH-HF-01,14.418948,44.836313,Clinic,Energized,Raymah
+RMH-HF-02,13.994454,44.220831,Clinic,Energized,Raymah
+RMH-HF-03,14.00724,44.291559,Clinic,Energized,Raymah
+BYD-HF-01,13.998337,44.118586,Clinic,Energized,Al Bayda
+BYD-HF-02,13.917101,44.409534,Clinic,Energized,Al Bayda
+IBB-HF-01,14.029489,44.311045,Clinic,Energized,Ibb
+IBB-HF-02,13.712747,45.302668,Clinic,Energized,Ibb
+IBB-HF-03,13.927472,46.082583,Clinic,Energized,Ibb
+IBB-HF-04,13.807211,45.774212,Clinic,Energized,Ibb
+IBB-HF-05,13.826232,46.039108,Clinic,Energized,Ibb
+DMR-HF-01,14.705611,44.272816,Clinic,Energized,Dhamar
+DMR-HF-02,14.543358,44.264926,Clinic,Energized,Dhamar
+DMR-HF-03,14.480246,44.222388,Clinic,Energized,Dhamar
+DMR-HF-04,14.86317,44.383581,Clinic,Energized,Dhamar
+DMR-HF-05,14.643782,44.275976,Clinic,Energized,Dhamar
+BYD-HF-03,13.940195,45.671206,Clinic,Energized,Al Bayda
+BYD-HF-04,14.261055,45.320347,Clinic,Energized,Al Bayda
+BYD-HF-05,13.928693,45.709832,Clinic,Energized,Al Bayda
+BYD-HF-06,14.354766,44.820125,Clinic,Energized,Al Bayda
+SAN-HF-01,15.11953,43.77211,Clinic,Energized,Sana'a
+SAN-HF-02,15.164059,43.624629,Clinic,Energized,Sana'a
+SAN-HF-03,15.285243,44.733687,Clinic,Energized,Sana'a
+HAJ-HF-01,15.59848,43.39157,Clinic,Energized,Hajjah
+HAJ-HF-02,16.04738,43.42371,Clinic,Energized,Hajjah
+MAH-HF-01,15.47982,43.874543,Clinic,Energized,Al Mahwit
+MAH-HF-02,15.443497,43.785072,Clinic,Energized,Al Mahwit
+HAD-U2-01,16.207579,49.289848,Well,Energized,Hadramawt
+HAD-U2-02,16.206913,49.289662,Well,Energized,Hadramawt
+HAD-U2-03,15.706653,48.296941,Well,Energized,Hadramawt
+HAD-U2-04,15.738409,48.375663,Well,Energized,Hadramawt
+HAD-U2-05,15.760558,48.271083,Well,Energized,Hadramawt
+HAD-U2-06,15.355052,48.347742,Well,Energized,Hadramawt
+HAD-U2-07,15.132503,49.060003,Well,Energized,Hadramawt
+HAD-U2-08,15.131486,49.10996,Well,Energized,Hadramawt
+HAD-U2-09,15.206943,49.020505,Well,Energized,Hadramawt
+HAD-U2-10,14.834579,49.177802,Well,Energized,Hadramawt
+HAD-U2-11,15.603096,48.186014,Well,Energized,Hadramawt
+MHR-U2-01,15.34373,51.469978,Well,Energized,Al Maharah
+MHR-U2-02,15.301847,51.378493,Well,Energized,Al Maharah
+MHR-U2-03,16.075601,52.083369,Well,Energized,Al Maharah
+MHR-U2-04,15.237926,51.101922,Well,Energized,Al Maharah
+MHR-U2-05,15.23996,51.100919,Well,Energized,Al Maharah
+MHR-U2-06,15.239183,51.101577,Well,Energized,Al Maharah
+MHR-U2-07,15.23518,51.103679,Well,Energized,Al Maharah
+MHR-U2-10,16.090205,52.047424,Well,Energized,Al Maharah
+MHR-U2-09,16.090205,52.038692,Well,Energized,Al Maharah
+MHR-U2-08,16.089898,52.042782,Well,Energized,Al Maharah
+ABY-HF-02,14.258517,43.650083,Clinic,Energized,Abyan
+ABY-HF-03,14.2802,43.59508333,Clinic,Energized,Abyan
+ABY-HF-04,14.63705,43.955433,Clinic,Energized,Abyan
+ABY-HF-05,14.695633,43.972933,Clinic,Energized,Abyan
+ABY-HF-06,14.5667833,44.19345,Clinic,Energized,Abyan
+ABY-HF-07,14.7969833,44.3005,Clinic,Energized,Abyan
+ABY-SCH-04,16.05857,44.810751,School,Energized,Abyan
+ABY-SCH-05,15.3652,44.36341667,School,Energized,Abyan
+ABY-SCH-06,15.343583,43.988283,School,Energized,Abyan
+DAL-HF-01,15.49815,43.93115,Clinic,Energized,Ad Dali
+DAL-HF-02,15.147338,43.943637,Clinic,Energized,Ad Dali
+DAL-HF-03,15.46359,43.492499,Clinic,Energized,Ad Dali
+DAL-HF-04,15.519992,43.742916,Clinic,Energized,Ad Dali
+DAL-HF-05,15.455313,43.282899,Clinic,Energized,Ad Dali
+HUD-HF-05,15.406791,43.452977,Clinic,Energized,Al Hodeidah
+HUD-HF-06,15.312179,43.516078,Clinic,Energized,Al Hodeidah
+HUD-HF-07,15.531989,43.77456,Clinic,Energized,Al Hodeidah
+HUD-HF-08,15.522229,43.375014,Clinic,Energized,Al Hodeidah
+HUD-HF-09,13.276511,44.266308,Clinic,Energized,Al Hodeidah
+HUD-HF-10,13.346986,44.258263,Clinic,Energized,Al Hodeidah
+HUD-HF-11,14.717689,44.582888,Clinic,Energized,Al Hodeidah
+HUD-HF-12,13.7110894,43.8224918,Clinic,Energized,Al Hodeidah
+HUD-HF-13,13.443139,43.705583,Clinic,Energized,Al Hodeidah
+HUD-HF-14,13.734472,43.721472,Clinic,Energized,Al Hodeidah
+HUD-HF-15,13.711006,43.924337,Clinic,Energized,Al Hodeidah
+JWF-HF-01,13.7455694,44.1048023,Clinic,Energized,Al Jawf
+MAH-HF-03,15.57392,43.58284,Clinic,Energized,Al Mahwit
+MAH-HF-04,15.83534,43.62068,Clinic,Energized,Al Mahwit
+MAH-HF-05,16.002418,43.303615,Clinic,Energized,Al Mahwit
+MAH-HF-06,15.491989,43.132394,Clinic,Energized,Al Mahwit
+MAH-HF-07,14.705974,43.438896,Clinic,Energized,Al Mahwit
+MAH-HF-08,14.655926,43.36417,Clinic,Energized,Al Mahwit
+MAH-HF-09,14.215301,43.462179,Clinic,Energized,Al Mahwit
+AMR-HF-01,14.176426,43.441421,Clinic,Energized,Amran
+AMR-HF-02,15.35965,43.163665,Clinic,Energized,Amran
+AMR-HF-03,15.300947,43.139017,Clinic,Energized,Amran
+AMR-HF-04,15.422581,42.960661,Clinic,Energized,Amran
+AMR-HF-05,15.403251,43.164683,Clinic,Energized,Amran
+AMR-HF-06,15.379619,43.218528,Clinic,Energized,Amran
+AMR-HF-07,15.511956,43.086533,Clinic,Energized,Amran
+AMR-HF-08,15.57745,43.90444,Clinic,Energized,Amran
+AMR-HF-09,15.56228,43.84004,Clinic,Energized,Amran
+AMR-HF-10,15.83514,43.9686,Clinic,Energized,Amran
+AMR-HF-11,15.84257,44.15564,Clinic,Energized,Amran
+AMR-HF-12,16.3271,43.94603,Clinic,Energized,Amran
+AMR-HF-13,16.14246,43.9378,Clinic,Energized,Amran
+AMR-HF-14,16.113,44.04164,Clinic,Energized,Amran
+DMR-HF-06,16.05387,44.10241,Clinic,Energized,Dhamar
+DMR-HF-07,16.00088,44.02874,Clinic,Energized,Dhamar
+DMR-HF-08,15.96457,44.0558,Clinic,Energized,Dhamar
+DMR-HF-09,16.14188,43.60041,Clinic,Energized,Dhamar
+DMR-HF-10,16.21642,43.68825,Clinic,Energized,Dhamar
+DMR-HF-11,16.36445,43.79752,Clinic,Energized,Dhamar
+DMR-HF-12,16.4123,43.77355,Clinic,Energized,Dhamar
+HAJ-HF-03,13.52657,44.85286,Clinic,Energized,Hajjah
+HAJ-HF-04,13.18251,44.14663,Clinic,Energized,Hajjah
+HAJ-HF-05,13.60189,44.98448,Clinic,Energized,Hajjah
+LAH-HF-02,13.83495,45.30431,Clinic,Energized,Lahj
+LAH-HF-03,13.017396,44.887288,Clinic,Energized,Lahj
+LAH-HF-04,12.97965,44.93318,Clinic,Energized,Lahj
+LAH-HF-05,13.01398,44.95444,Clinic,Energized,Lahj
+LAH-SCH-06,13.08559,43.72584,School,Energized,Lahj
+LAH-SCH-07,13.14343,43.85916,School,Energized,Lahj
+LAH-SCH-08,13.53737,43.94791,School,Energized,Lahj
+SAN-HF-04,13.49645,44.03837,Clinic,Energized,Sana'a
+SAN-HF-05,13.13615,43.86973,Clinic,Energized,Sana'a
+SAN-HF-06,13.48328,43.47126,Clinic,Energized,Sana'a
+SAN-HF-07,13.29395,43.44337,Clinic,Energized,Sana'a
+TAZ-HF-03,13.56753,43.48609,Clinic,Energized,Taiz
+TAZ-HF-04,13.837466,44.865611,Clinic,Energized,Taiz
+TAZ-HF-05,13.833119,44.915707,Clinic,Energized,Taiz
+TAZ-HF-06,13.670751,44.642795,Clinic,Energized,Taiz
+TAZ-HF-07,13.790046,44.768138,Clinic,Energized,Taiz
+TAZ-HF-08,13.616107,44.778856,Clinic,Energized,Taiz
+TAZ-HF-09,13.229759,45.308678,Clinic,Energized,Taiz
+TAZ-HF-11,13.090556,45.358889,Clinic,Energized,Taiz
+TAZ-HF-12,13.358611,45.703056,Clinic,Energized,Taiz
+TAZ-HF-13,13.806018,45.781152,Clinic,Energized,Taiz
+TAZ-SCH-03,13.659002,45.850722,School,Energized,Taiz
+TAZ-SCH-04,13.516144,46.713805,School,Energized,Taiz
+TAZ-SCH-05,13.517642,46.714236,School,Energized,Taiz
+TAZ-SCH-06,13.471149,46.662303,School,Energized,Taiz
+TAZ-HF-10,13.957617,46.225027,Clinic,Energized,Taiz
+ABY-SCH-07,15.71761,43.48143,School,Energized,Abyan
+ABY-HF-09,16.0869,43.38596,Clinic,Energized,Abyan
+ABY-HF-08,15.94968,43.41057,Clinic,Energized,Abyan
+ABY-HF-11,15.73807,43.71074,Clinic,Energized,Abyan
+ABY-HF-10,15.72925,43.64019,Clinic,Energized,Abyan
+DAL-HF-15,16.182377,44.627314,Clinic,Energized,Ad Dali
+DAL-HF-14,16.01713,43.29474,Clinic,Energized,Ad Dali
+DAL-HF-10,16.19967,43.31063,Clinic,Energized,Ad Dali
+DAL-HF-13,14.304847,43.737001,Clinic,Energized,Ad Dali
+DAL-HF-07,14.370488,43.522908,Clinic,Energized,Ad Dali
+DAL-HF-06,14.63156667,44.50255,Clinic,Energized,Ad Dali
+DAL-HF-08,14.660152,44.149645,Clinic,Energized,Ad Dali
+DAL-HF-09,14.746374,44.204272,Clinic,Energized,Ad Dali
+DAL-HF-11,14.693119,44.355593,Clinic,Energized,Ad Dali
+DAL-HF-12,15.392613,44.467833,Clinic,Energized,Ad Dali
+ADN-SCH-07,15.641236,44.478678,School,Energized,Aden
+BYD-HF-07,15.2236114,44.9793484,Clinic,Energized,Al Bayda
+BYD-HF-08,15.1209829,44.8293423,Clinic,Energized,Al Bayda
+JWF-HF-03,15.037083,45.848412,Clinic,Energized,Al Jawf
+JWF-HF-02,14.614741,49.256744,Clinic,Energized,Al Jawf
+AMR-HF-15,14.039174,45.399844,Clinic,Energized,Amran
+AMR-HF-16,16.9551,43.51309,Clinic,Energized,Amran
+AMR-HF-17,14.12086,45.450872,Clinic,Energized,Amran
+DMR-HF-15,15.95236,43.78657,Clinic,Energized,Dhamar
+DMR-HF-16,13.64258,44.85971,Clinic,Energized,Dhamar
+DMR-HF-17,15.94431,43.80393,Clinic,Energized,Dhamar
+DMR-HF-18,16.00375,43.77495,Clinic,Energized,Dhamar
+DMR-HF-14,14.327271,46.873817,Clinic,Energized,Dhamar
+DMR-HF-13,14.13587,44.241724,Clinic,Energized,Dhamar
+HAD-HF-07,13.878721,44.206677,Clinic,Energized,Hadramawt
+HAD-HF-10,13.88343333,44.01655,Clinic,Energized,Hadramawt
+HAD-HF-06,13.60144,44.98431,Clinic,Energized,Hadramawt
+HAD-HF-09,16.105967,44.677782,Clinic,Energized,Hadramawt
+HAD-HF-08,14.678334,43.726769,Clinic,Energized,Hadramawt
+HAD-HF-11,14.530588,43.828786,Clinic,Energized,Hadramawt
+HAD-HF-12,14.686819,43.828831,Clinic,Energized,Hadramawt
+HAJ-HF-08,14.591997,43.819155,Clinic,Energized,Hajjah
+HAJ-HF-11,14.761667,43.598099,Clinic,Energized,Hajjah
+HAJ-HF-07,14.852543,43.697467,Clinic,Energized,Hajjah
+HAJ-HF-09,14.830799,43.535878,Clinic,Energized,Hajjah
+HAJ-HF-12,14.166661,44.765274,Clinic,Energized,Hajjah
+HAJ-HF-10,14.082315,44.747654,Clinic,Energized,Hajjah
+HAJ-HF-06,13.947259,44.89254,Clinic,Energized,Hajjah
+IBB-HF-06,14.120541,44.809558,Clinic,Energized,Ibb
+IBB-HF-07,13.83085,44.4465,Clinic,Energized,Ibb
+IBB-HF-08,13.959111,44.517806,Clinic,Energized,Ibb
+LAH-HF-08,13.8948,44.5237,Clinic,Energized,Lahj
+LAH-HF-15,13.802503,44.937543,Clinic,Energized,Lahj
+LAH-HF-14,13.754343,44.871365,Clinic,Energized,Lahj
+LAH-HF-16,13.609669,44.645411,Clinic,Energized,Lahj
+LAH-HF-07,12.872699,44.99092,Clinic,Energized,Lahj
+LAH-HF-12,13.264345,45.344188,Clinic,Energized,Lahj
+LAH-HF-13,13.766667,45.290278,Clinic,Energized,Lahj
+LAH-HF-06,13.678665,45.237837,Clinic,Energized,Lahj
+LAH-HF-10,13.814189,45.391343,Clinic,Energized,Lahj
+LAH-HF-09,13.63806667,45.310783,Clinic,Energized,Lahj
+LAH-HF-11,12.98942,44.09663,Clinic,Energized,Lahj
+LAH-HF-17,13.52717,44.85273,Clinic,Energized,Lahj
+RMH-HF-04,13.50396,44.9748,Clinic,Energized,Raymah
+RMH-HF-07,13.64293,44.85904,Clinic,Energized,Raymah
+RMH-HF-06,13.74114,45.03355,Clinic,Energized,Raymah
+RMH-HF-08,13.75432,44.9717,Clinic,Energized,Raymah
+RMH-HF-10,13.36716,44.49205,Clinic,Energized,Raymah
+RMH-HF-09,13.314423,44.395322,Clinic,Energized,Raymah
+RMH-HF-05,13.308815,44.338867,Clinic,Energized,Raymah
+SAD-HF-01,13.04983,44.92942,Clinic,Energized,Sa'dah
+SAN-HF-08,14.910147,49.993922,Clinic,Energized,Sana'a
+SAN-HF-11,15.547091,49.347265,Clinic,Energized,Sana'a
+SAN-HF-10,15.250014,48.338686,Clinic,Energized,Sana'a
+SAN-HF-09,16.135249,47.233409,Clinic,Energized,Sana'a
+SHA-HF-08,15.598708,48.851921,Clinic,Energized,Shabwah
+SHA-HF-07,15.701865,48.295924,Clinic,Energized,Shabwah
+SAN-S1-84,15.277109,44.351377,Well,Energized,Sana'a
+SAN-S1-83,15.12531,44.41804,Well,Energized,Sana'a
+SAN-S1-79,15.246037,43.869921,Well,Energized,Sana'a
+SAN-S1-19,14.960836,44.401998,Well,Energized,Sana'a
+MAH-S1-14,15.462244,43.628389,Well,Energized,Al Mahwit
+HAJ-S1-08-D,15.64457,43.55745,Well,Energized,Hajjah
+HAJ-S1-08-C,15.65569,43.55265,Well,Energized,Hajjah
+HAJ-S1-08-B,15.66727,43.55703,Well,Energized,Hajjah
+HAJ-S1-08-A,15.67003,43.5545,Well,Energized,Hajjah
+DMR-S1-13,14.685718,44.54154,Well,Energized,Dhamar
+DMR-S1-05,14.714485,44.580153,Well,Energized,Dhamar
+DMR-S1-04,14.749159,44.639917,Well,Energized,Dhamar
+BYD-S1-26,14.398566,44.729641,Well,Energized,Al Bayda
+BYD-S1-06,14.063611,45.502703,Well,Energized,Al Bayda
+AMR-S1-05,15.978105,44.12561,Well,Energized,Amran
+IBB-S1-01-A,13.94518,43.943461,Well,Energized,Ibb
+IBB-S1-01-B,13.946031,43.936131,Well,Energized,Ibb
+IBB-S1-02-A,14.077533,44.509003,Well,Energized,Ibb
+IBB-S1-02-B,14.085362,44.519432,Well,Energized,Ibb
+IBB-S1-02-C,14.098818,44.524784,Well,Energized,Ibb
+IBB-S1-03-A,14.184075,44.347273,Well,Energized,Ibb
+IBB-S1-03-B,14.173909,44.358552,Well,Energized,Ibb
+IBB-S1-12,14.013339,44.244204,Well,Energized,Ibb
+IBB-S1-18,14.17331,44.476969,Well,Energized,Ibb
+LAH-U2-04,13.883617,45.257794,Well,Energized,Lahj
+TAZ-S1-05-A,13.749874,43.68068,Well,Energized,Taiz
+TAZ-S1-05-B,13.761121,43.67655,Well,Energized,Taiz
+TAZ-S1-05-C,13.779089,43.706852,Well,Energized,Taiz
+TAZ-S1-20-A,13.440041,44.132069,Well,Energized,Taiz
+TAZ-S1-20-B,13.425757,44.132578,Well,Energized,Taiz
+ABY-HF-12,16.054218,48.981149,Clinic,Energized,Abyan
+ABY-HF-14,16.051418,49.003806,Clinic,Energized,Abyan
+ABY-HF-13,15.546263,49.350587,Clinic,Energized,Abyan
+DAL-HF-16,14.436395,46.144904,Clinic,Energized,Ad Dali
+DAL-HF-17,14.798502,45.71377,Clinic,Energized,Ad Dali
+BYD-HF-09,14.23089,47.19536,Clinic,Energized,Al Bayda
+HUD-HF-19,13.086385,45.366191,Clinic,Energized,Al Hodeidah
+HUD-HF-20,13.926986,46.184748,Clinic,Energized,Al Hodeidah
+HUD-HF-16,13.340667,45.298848,Clinic,Energized,Al Hodeidah
+HUD-HF-18,13.74129,44.66991,Clinic,Energized,Al Hodeidah
+HUD-HF-17,13.701712,44.682809,Clinic,Energized,Al Hodeidah
+HUD-HF-21,13.27224,44.32125,Clinic,Energized,Al Hodeidah
+JWF-HF-04,13.2992038,44.3101067,Clinic,Energized,Al Jawf
+JWF-HF-11,13.26078,44.10291,Clinic,Energized,Al Jawf
+JWF-HF-05,13.32244,44.14604,Clinic,Energized,Al Jawf
+JWF-HF-13,13.34883,44.05156,Clinic,Energized,Al Jawf
+JWF-HF-06,13.47432,43.87916,Clinic,Energized,Al Jawf
+JWF-HF-08,13.51832,44.04748,Clinic,Energized,Al Jawf
+JWF-HF-09,13.52838,43.9917,Clinic,Energized,Al Jawf
+JWF-HF-10,13.18934,43.93403,Clinic,Energized,Al Jawf
+JWF-HF-12,13.13205,44.4187,Clinic,Energized,Al Jawf
+JWF-HF-07,16.423806,43.431389,Clinic,Energized,Al Jawf
+MAH-HF-12,16.149361,43.422333,Clinic,Energized,Al Mahwit
+MAH-HF-10,16.4055,43.300722,Clinic,Energized,Al Mahwit
+MAH-HF-11,16.322389,43.398667,Clinic,Energized,Al Mahwit
+MAH-HF-13,15.852816,43.456217,Clinic,Energized,Al Mahwit
+MAH-HF-14,15.670527,43.468357,Clinic,Energized,Al Mahwit
+DMR-HF-19,15.006697,43.233107,Clinic,Energized,Dhamar
+HAD-HF-15,14.043407,43.609032,Clinic,Energized,Hadramawt
+HAD-HF-13,15.178855,43.165143,Clinic,Energized,Hadramawt
+HAD-HF-14,15.235905,43.232302,Clinic,Energized,Hadramawt
+HAJ-HF-17,15.287989,43.190653,Clinic,Energized,Hajjah
+HAJ-HF-15,14.23346,43.378976,Clinic,Energized,Hajjah
+HAJ-HF-18,15.484011,43.587416,Clinic,Energized,Hajjah
+HAJ-HF-14,15.526723,43.649793,Clinic,Energized,Hajjah
+HAJ-HF-13,15.460095,43.355733,Clinic,Energized,Hajjah
+HAJ-HF-16,15.351263,43.407126,Clinic,Energized,Hajjah
+LAH-HF-18,15.507832,43.842119,Clinic,Energized,Lahj
+SAD-HF-02,15.454375,44.326676,Clinic,Energized,Sa'dah
+SAD-HF-06,15.199669,44.109411,Clinic,Energized,Sa'dah
+SAD-HF-07,14.580967,44.563035,Clinic,Energized,Sa'dah
+SAD-HF-04,16.7642,43.38305,Clinic,Energized,Sa'dah
+SAD-HF-05,16.83923,43.39989,Clinic,Energized,Sa'dah
+SAD-HF-08,17.14466,43.24869,Clinic,Energized,Sa'dah
+SAD-HF-09,16.92142,43.2693,Clinic,Energized,Sa'dah
+SAD-HF-10,16.96478,44.26823,Clinic,Energized,Sa'dah
+SAD-HF-03,17.01927,44.30143,Clinic,Energized,Sa'dah
+SAN-HF-12,17.00888,43.75722,Clinic,Energized,Sana'a
+SAN-HF-13,16.98325,43.76907,Clinic,Energized,Sana'a
+SHA-SCH-08,16.75748,43.7461,School,Energized,Shabwah
+SHA-SCH-09,16.254363,44.438094,School,Energized,Shabwah
+SHA-HF-09,16.33057,44.459968,Clinic,Energized,Shabwah
+TAZ-HF-18,16.772968,44.358232,Clinic,Energized,Taiz
+TAZ-HF-16,16.698978,44.413548,Clinic,Energized,Taiz
+TAZ-HF-17,16.760778,44.338839,Clinic,Energized,Taiz
+TAZ-HF-22,16.910284,44.455371,Clinic,Energized,Taiz
+TAZ-HF-14,16.99723,45.044525,Clinic,Energized,Taiz
+TAZ-HF-15,16.233374,44.587034,Clinic,Energized,Taiz
+TAZ-HF-19,16.711636,44.833424,Clinic,Energized,Taiz
+TAZ-HF-21,16.316517,44.496649,Clinic,Energized,Taiz
+TAZ-HF-20,14.310021,45.02506,Clinic,Energized,Taiz
+AMR-S1-42,16.112595,43.977606,Well,Energized,Amran
+AMR-S1-59,15.903225,43.996991,Well,Energized,Amran
+AMR-S1-60,15.871938,43.887384,Well,Energized,Amran
+AMR-S1-62,16.04604,43.97535,Well,Energized,Amran
+DMR-S1-08,14.473518,44.488349,Well,Energized,Dhamar
+DMR-S1-12,14.943527,44.372042,Well,Energized,Dhamar
+DMR-S1-46,14.588303,44.52485,Well,Energized,Dhamar
+DMR-S1-47,14.540751,44.505602,Well,Energized,Dhamar
+DMR-S1-50,14.757365,44.035543,Well,Energized,Dhamar
+DMR-S1-51,14.805658,44.057188,Well,Energized,Dhamar
+HUD-S1-25,15.23423,42.90898,Well,Energized,Al Hodeidah
+HUD-S1-27,14.757298,43.273401,Well,Energized,Al Hodeidah
+SAD-S1-03,16.94055,43.3521,Well,Energized,Sa'dah
+BYD-S1-20,14.405889,45.33558,Well,Energized,Al Bayda
+BYD-S1-24,14.314124,44.684507,Well,Energized,Al Bayda
+DAL-S1-16-A,14.163305,44.731021,Well,Energized,Ad Dali
+DAL-S1-16-B,14.16391,44.73461,Well,Energized,Ad Dali
+DAL-S1-16-C,14.171161,44.742706,Well,Energized,Ad Dali
+DAL-S1-19,13.919551,44.506205,Well,Energized,Ad Dali
+SHA-U2-01,14.536492,46.904797,Well,Energized,Shabwah
+SHA-U2-02,14.604896,47.145903,Well,Energized,Shabwah
+SHA-U2-03,14.503053,46.482568,Well,Energized,Shabwah
+SHA-U2-04,14.618577,46.217519,Well,Energized,Shabwah
+SHA-U2-05,14.405228,46.519844,Well,Energized,Shabwah
+SHA-U2-06,14.900233,47.076286,Well,Energized,Shabwah
+IBB-S1-08,14.077984,44.298612,Well,Energized,Ibb
+IBB-S1-11,14.299942,44.256929,Well,Energized,Ibb
+IBB-S1-14,13.984653,44.259427,Well,Energized,Ibb
+IBB-S1-16-A,14.097223,44.468425,Well,Energized,Ibb
+IBB-S1-16-B,14.084157,44.463581,Well,Energized,Ibb
+IBB-S1-16-C,14.070691,44.464231,Well,Energized,Ibb
+IBB-S1-17-A,14.198532,44.295171,Well,Energized,Ibb
+IBB-S1-17-B,14.19847,44.295226,Well,Energized,Ibb
+TAZ-S1-09,13.584505,43.80034,Well,Energized,Taiz
+TAZ-S1-11,13.57592,43.844706,Well,Energized,Taiz
+TAZ-S1-12,13.576576,43.849803,Well,Energized,Taiz
+TAZ-S1-24,13.750536,43.929618,Well,Energized,Taiz
+ABY-HF-15,15.601883,48.187253,Clinic,Energized,Abyan
+ABY-HF-16,15.566847,45.401063,Clinic,Energized,Abyan
+ABY-HF-17,15.541517,45.462395,Clinic,Energized,Abyan
+ADN-HF-01,15.393752,45.326457,Clinic,Energized,Aden
+ADN-HF-02,15.444634,45.399807,Clinic,Energized,Aden
+ADN-HF-03,15.4591,45.31957,Clinic,Energized,Aden
+BYD-HF-10,15.4960034,45.3179526,Clinic,Energized,Al Bayda
+HUD-HF-22,15.5171894,45.4104288,Clinic,Energized,Al Hodeidah
+HUD-HF-23,15.4148746,45.3764648,Clinic,Energized,Al Hodeidah
+HUD-HF-24,14.979308,45.486005,Clinic,Energized,Al Hodeidah
+MAH-HF-15,14.538533,46.830996,Clinic,Energized,Al Mahwit
+MAH-HF-16,14.851454,45.530331,Clinic,Energized,Al Mahwit
+MAH-HF-17,14.329823,47.4487,Clinic,Energized,Al Mahwit
+ASMH-HF-01,14.312942,46.925145,Clinic,Energized,Amanat Al Asimah
+ASMH-HF-02,14.357013,47.066284,Clinic,Energized,Amanat Al Asimah
+HAD-HF-16,12.926389,45.0425,Clinic,Energized,Hadramawt
+HAJ-HF-20,12.910002,44.975506,Clinic,Energized,Hajjah
+HAJ-SCH-01,12.903168,44.984806,School,Energized,Hajjah
+HAJ-HF-19,14.185851,46.157686,Clinic,Energized,Hajjah
+IBB-HF-09,14.234262,46.141658,Clinic,Energized,IBB
+LAH-HF-21,14.179169,46.335212,Clinic,Energized,Lahj
+LAH-HF-19,13.46079,44.01882,Clinic,Energized,Lahj
+LAH-HF-20,12.9418,43.40846,Clinic,Energized,Lahj
+MRB-HF-07,13.36775,44.14461,Clinic,Energized,Ma'rib
+MRB-SCH-05,13.25331,44.26401,School,Energized,Ma'rib
+MRB-HF-06,13.29776,44.13252,Clinic,Energized,Ma'rib
+MRB-HF-08,12.9979,44.97501,Clinic,Energized,Ma'rib
+MRB-HF-04,13.168056,44.378889,Clinic,Energized,Ma'rib
+MRB-HF-01,12.627617,43.918857,Clinic,Energized,Ma'rib
+MRB-HF-02,14.400001,45.141378,Clinic,Energized,Ma'rib
+MRB-SCH-03,14.228602,44.185039,School,Energized,Ma'rib
+MRB-SCH-04,15.236519,44.263791,School,Energized,Ma'rib
+MRB-HF-03,15.2256,44.74247,Clinic,Energized,Ma'rib
+MRB-SCH-01,16.84941,43.93279,School,Energized,Ma'rib
+MRB-SCH-02,16.93285,44.31236,School,Energized,Ma'rib
+MRB-HF-05,15.969091,43.469845,Clinic,Energized,Ma'rib
+SAD-HF-12,15.9776471,43.190241,Clinic,Energized,Sa'dah
+SAD-HF-11,14.899631,44.992913,Clinic,Energized,Sa'dah
+SAN-HF-15,14.718932,45.203847,Clinic,Energized,Sana'a
+SAN-HF-14,14.665379,45.358541,Clinic,Energized,Sana'a
+SHA-HF-13,14.550268,45.302269,Clinic,Energized,Shabwah
+SHA-HF-10,15.953611,43.38722,Clinic,Energized,Shabwah
+SHA-HF-11,15.441061,43.393448,Clinic,Energized,Shabwah
+SHA-HF-14,15.357336,43.284724,Clinic,Energized,Shabwah
+SHA-HF-12,15.295175,43.283267,Clinic,Energized,Shabwah
+TAZ-HF-25,14.685547,43.366813,Clinic,Energized,Taiz
+TAZ-HF-23,14.6390592,43.419151,Clinic,Energized,Taiz
+TAZ-HF-24,14.884348,43.466418,Clinic,Energized,Taiz
+TAZ-HF-26,15.520937,44.208652,Clinic,Energized,Taiz
+TAZ-HF-27,15.554982,44.281653,Clinic,Energized,Taiz
+SAN-S1-82,13.88002,45.16883,Well,Energized,Sana'a
+SAN-S1-89,15.400911,44.031346,Well,Energized,Sana'a
+HUD-S1-16,13.31664,44.07559,Well,Contract awarded,Al Hodeidah
+HUD-S1-30,15.633614,42.818439,Well,Contract awarded,Al Hodeidah
+IBB-S1-20-A,14.011322,44.305884,Well,Contract awarded,Ibb
+IBB-S1-20-B,14.011308,44.308653,Well,Contract awarded,Ibb
+DMR-S1-03,14.88132,44.20586,Well,Contract awarded,Dhamar
+DMR-S1-14,14.854177,44.388708,Well,Energized,Dhamar
+DMR-S2-03-A,14.774343,44.55125,Well,Contract awarded,Dhamar
+DMR-S2-03-B,14.759245,44.537013,Well,Contract awarded,Dhamar
+HAJ-S1-11-C,15.55811,43.5647,Well,Contract awarded,Hajjah
+HAJ-S1-11-D,15.56976,43.56749,Well,Contract awarded,Hajjah
+HAJ-S1-17-B,15.69686,43.48472,Well,Contract awarded,Hajjah
+HAJ-S1-17-C,15.70472,43.48465,Well,Contract awarded,Hajjah
+HAJ-S1-17-D,15.72218,43.47512,Well,Contract awarded,Hajjah
+LAH-U1-11,15.539955,44.765592,Well,Contract awarded,Lahj
+LAH-U2-12,14.147823,46.983588,Well,Contract awarded,Lahj
+SHA-U2-07,14.331447,47.495422,Well,Energized,Shabwah
+SHA-U2-09,14.359088,47.070226,Well,Energized,Shabwah
+SHA-U2-11,13.19569,44.10083,Well,Energized,Shabwah
+TAZ-S1-22-B,13.741539,43.640885,Well,Contract awarded,Taiz
+TAZ-S1-23,13.08767,43.8674,Well,Contract awarded,Taiz
+TAZ-U2-15-B,13.19771,44.02554,Well,Contract awarded,Taiz
+TAZ-U2-23,15.2122,44.536173,Well,Energized,Taiz
+TAZ-U2-24,13.24379,44.14015,Well,Energized,Taiz
+TAZ-U2-30,13.758559,44.094059,Well,Contract awarded,Taiz
+MRB-S1-04,14.148076,43.524479,Well,Contract awarded,Ma'rib
+LAH-VC-01,13.051478,44.881161,Vaccine,Energized,Lahj
+DMR-VC-02,14.542994,44.399699,Vaccine,Contract awarded,Dhamar
+HAJ-VC-01,15.708953,43.591889,Vaccine,Contract awarded,Hajjah
+IBB-VC-01,13.976806,44.169603,Vaccine,Contract awarded,Ibb
+SAN-VC-01,15.269122,44.21975,Vaccine,Contract awarded,Sana'a
+HUD-SCH-08,13.319993,43.24179,School,Contract awarded,Al Hodeidah
+HUD-SCH-06,13.801476,44.79155,School,Contract awarded,Al Hodeidah
+HUD-SCH-05,13.613413,44.0081383,School,Contract awarded,Al Hodeidah
+HUD-SCH-03,16.731156,44.315324,School,Contract awarded,Al Hodeidah
+HUD-SCH-04,16.488662,44.427125,School,Contract awarded,Al Hodeidah
+HUD-SCH-09,16.166858,44.775661,School,Contract awarded,Al Hodeidah
+HUD-HF-26,16.050251,48.976811,Clinic,Contract awarded,Al Hodeidah
+HUD-SCH-10,14.810951,49.827091,School,Contract awarded,Al Hodeidah
+HUD-SCH-07,15.92152,48.635334,School,Contract awarded,Al Hodeidah
+HUD-HF-25,15.12732,48.329337,Clinic,Contract awarded,Al Hodeidah
+HUD-SCH-02,13.836936,44.113535,School,Contract awarded,Al Hodeidah
+HUD-SCH-01,13.88882,43.74341,School,Contract awarded,Al Hodeidah
+JWF-HF-16,14.072424,43.98635,Clinic,Contract awarded,Al Jawf
+JWF-HF-15,15.62997,43.54038,Clinic,Contract awarded,Al Jawf
+JWF-HF-14,15.63778,43.44459,Clinic,Contract awarded,Al Jawf
+MAH-SCH-04,15.69871,43.61183,School,Energized,Al Mahwit
+MAH-SCH-03,16.043759,43.112183,School,Energized,Al Mahwit
+MAH-SCH-05,16.049653,43.111834,School,Energized,Al Mahwit
+MAH-SCH-01,16.084765,43.135999,School,Energized,Al Mahwit
+MAH-SCH-02,16.0075,43.194897,School,Energized,Al Mahwit
+HAD-HF-17,16.03274,43.21426,Clinic,Energized,Hadramawt
+HAD-HF-19,15.9451,43.20224,Clinic,Energized,Hadramawt
+HAD-HF-18,15.96281,43.31009,Clinic,Energized,Hadramawt
+HAD-SCH-09,15.98243,43.32148,School,Energized,Hadramawt
+HAJ-HF-24,15.184987,43.511662,Clinic,Energized,Hajjah
+HAJ-SCH-02,15.09688,43.45524,School,Energized,Hajjah
+HAJ-SCH-03,15.4741,43.32637,School,Energized,Hajjah
+HAJ-SCH-04,15.44665,43.43067,School,Energized,Hajjah
+HAJ-SCH-06,15.429272,43.470224,School,Energized,Hajjah
+HAJ-SCH-05,14.97707,44.25943,School,Energized,Hajjah
+HAJ-HF-22,15.15896,44.15723,Clinic,Energized,Hajjah
+HAJ-SCH-07,15.225128,43.937029,School,Energized,Hajjah
+HAJ-SCH-08,15.2739028,43.0526204,School,Energized,Hajjah
+HAJ-HF-23,15.359333,43.103797,Clinic,Energized,Hajjah
+HAJ-HF-21,15.033554,43.266466,Clinic,Energized,Hajjah
+IBB-HF-10,15.067513,43.297277,Clinic,Energized,Ibb
+IBB-HF-11,14.685578,43.295193,Clinic,Energized,Ibb
+IBB-HF-12,14.683955,43.29628,Clinic,Energized,Ibb
+SAN-HF-18,14.137318,43.391976,Clinic,Contract awarded,Sana'a
+SAN-HF-17,14.130932,43.397809,Clinic,Contract awarded,Sana'a
+SAN-HF-16,14.729401,43.373252,Clinic,Contract awarded,Sana'a
+TAZ-HF-28,15.213127,43.067574,Clinic,Energized,Taiz
+TAZ-HF-30,15.365548,43.100628,Clinic,Contract awarded,Taiz
+TAZ-HF-29,15.495794,43.134735,Clinic,Contract awarded,Taiz
+ABY-HF-19,12.601899,53.85719,Clinic,Contract awarded,Abyan
+ABY-HF-20,12.87822,44.98592,Clinic,Contract awarded,Abyan
+ADN-HF-05,12.64952573591699,54.0193506900362,Clinic,Contract awarded,Aden
+ADN-SCH-08,12.654778,54.032861,School,Contract awarded,Aden
+ADN-SCH-09,12.690100293405456,53.49329513232335,School,Contract awarded,Aden
+ADN-HF-04,12.692788999225533,53.49435175249332,Clinic,Contract awarded,Aden
+BYD-HF-10,12.650171195703438,54.03721325824207,Clinic,Contract awarded,Al Bayda
+SOC-VC-01,12.635913538451788,53.95088306769288,Vaccine,Contract awarded,Socotra
+BYD-HF-11,12.64001341748633,54.21022244516621,Clinic,Contract awarded,Al Bayda
+BYD-HF-14,12.36211317123823,54.023354213974144,Clinic,Contract awarded,Al Bayda
+BYD-HF-13,12.602256537413853,53.857423723983096,Clinic,Contract awarded,Al Bayda
+HUD-SCH-14,12.508255640848494,54.32580890569655,School,Contract awarded,Al Hodeidah
+HUD-SCH-12,12.690925998555134,53.490594676870856,School,Contract awarded,Al Hodeidah
+SOC-VC-02,15.769956,45.083449,Vaccine,Contract awarded,Socotra
+HUD-HF-27,15.5151777,45.3683885,Clinic,Contract awarded,Al Hodeidah
+HUD-SCH-15,15.4979871,45.449665,School,Contract awarded,Al Hodeidah
+HUD-SCH-11,15.7648617,45.0803749,School,Contract awarded,Al Hodeidah
+JWF-HF-19,14.9319269,45.5039998,Clinic,Contract awarded,Al Jawf
+JWF-HF-17,15.4926066,45.2991611,Clinic,Contract awarded,Al Jawf
+JWF-HF-18,14.509155,46.882095,Clinic,Contract awarded,Al Jawf
+MHR-SCH-06,14.5862308,46.1705355,School,Contract awarded,Al Maharah
+MHR-HF-04,14.852096,45.531362,Clinic,Contract awarded,Al Maharah
+MHR-HF-05,15.602387,48.184356,Clinic,Contract awarded,Al Maharah
+MRB-SCH-07,16.740608,51.300329,School,Contract awarded,Ma'rib
+ASMH-HF-03,17.268892,51.010885,Clinic,Contract awarded,Amanat Al Asimah
+AMR-HF-20,16.208828,52.179381,Clinic,Contract awarded,Amran
+AMR-HF-21,12.836667,45.031389,Clinic,Contract awarded,Amran
+AMR-HF-18,12.750833,44.890833,Clinic,Contract awarded,Amran
+AMR-HF-19,12.832825,44.945467,Clinic,Contract awarded,Amran
+DMR-HF-20,12.755796,44.891781,Clinic,Contract awarded,Dhamar
+ABY-VC-01,13.92505,46.0824,Vaccine,Contract awarded,Abyan
+DMR-HF-21,13.778056,46.003056,Clinic,Contract awarded,Dhamar
+HAD-SCH-10,13.86965,45.812617,School,Contract awarded,Hadramawt
+TAZ-VC-01,13.3825,43.973333333333336,Vaccine,Contract awarded,Taiz
+IBB-HF-14,13.401944444444444,44.08361111111111,Clinic,Contract awarded,Ibb
+IBB-HF-13,13.136572,43.925936,Clinic,Contract awarded,Ibb
+LAH-HF-22,13.163517,44.063167,Clinic,Contract awarded,Lahj
+LAH-HF-23,13.200833333333332,43.2775,Clinic,Contract awarded,Lahj
+LAH-HF-24,13.273055555555556,43.45416666666667,Clinic,Contract awarded,Lahj
+LAH-SCH-09,13.446666666666667,43.270833333333336,School,Contract awarded,Lahj
+LAH-SCH-10,13.43,44.82805555555556,School,Contract awarded,Lahj
+LAH-SCH-11,12.99972222222222,44.91361111111111,School,Contract awarded,Lahj
+MRB-HF-10,12.946944444444444,44.99722222222222,Clinic,Contract awarded,Ma'rib
+MRB-HF-11,13.04111111111111,44.88305555555556,Clinic,Contract awarded,Ma'rib
+MRB-SCH-08,13.0,44.91444444444444,School,Contract awarded,Ma'rib
+MRB-HF-09,13.0025,44.9125,Clinic,Contract awarded,Ma'rib
+MRB-SCH-06,14.731548,43.962097,School,Contract awarded,Ma'rib
+SAD-HF-14,14.70415,44.02751,Clinic,Under Design,Sa'dah
+SAD-HF-13,16.940335,43.767075,Clinic,Under Design,Sa'dah
+SAD-HF-15,17.06218,43.60987,Clinic,Under Design,Sa'dah
+SHA-HF-15,16.94249,43.66483,Clinic,Contract awarded,Shabwah
+SHA-SCH-10,13.88699,43.961494,School,Contract awarded,Shabwah
+SHA-HF-16,13.955695,44.124562,Clinic,Contract awarded,Shabwah
+IBB-VC-02,13.985569,44.285447,Vaccine,Contract awarded,Ibb
+SOC-SCH-01,15.462588,44.14503,School,Contract awarded,Socotra
+SOC-SCH-02,14.452538,45.361819,School,Contract awarded,Socotra
+SOC-SCH-03,14.091453,45.804126,School,Contract awarded,Socotra
+BYD-VC-01,14.41886,45.2901,Vaccine,Contract awarded,Al Bayda
+SOC-SCH-04,14.301711,44.68289,School,Contract awarded,Socotra
+SOC-HF-03,13.936833,45.405834,Clinic,Contract awarded,Socotra
+SOC-HF-04,15.77585,43.81715,Clinic,Contract awarded,Socotra
+SOC-HF-05,16.235367,43.656717,Clinic,Contract awarded,Socotra
+SOC-HF-06,16.235357,43.966189,Clinic,Contract awarded,Socotra
+SOC-HF-07,15.61665,43.70481,Clinic,Contract awarded,Socotra
+SOC-SCH-05,15.702953,42.696728,School,Contract awarded,Socotra
+SOC-HF-01,15.722821,43.000029,Clinic,Contract awarded,Socotra
+TAZ-SCH-08,15.232651,42.940225,School,Contract awarded,Taiz
+TAZ-SCH-09,15.47466,43.11429,School,Contract awarded,Taiz
+TAZ-HF-33,15.328202,42.932035,Clinic,Contract awarded,Taiz
+HUD-VC-01,15.309536,42.672336,Vaccine,Contract awarded,Al Hodeidah
+TAZ-HF-34,16.649595,44.814544,Clinic,Contract awarded,Taiz
+TAZ-SCH-07,16.493876,44.799013,School,Contract awarded,Taiz
+TAZ-HF-32,16.271244,44.477804,Clinic,Contract awarded,Taiz
+ABY-U2-02,13.507581,46.195427,Well,Contract awarded,Abyan
+ABY-U2-05,13.880573,45.844972,Well,Contract awarded,Abyan
+ABY-U2-07,13.743622,45.269697,Well,Contract awarded,Abyan
+ABY-U2-09,13.959434,46.223764,Well,Contract awarded,Abyan
+ABY-U2-12,13.917487,46.160893,Well,Contract awarded,Abyan
+ABY-U2-13,13.8575,45.355,Well,Contract awarded,Abyan
+DAL-S1-17,14.062457,44.551206,Well,Contract awarded,Ad Dali
+DAL-U2-15,13.66305,44.749719,Well,Contract awarded,Ad Dali
+DAL-U2-22,13.962061,44.700796,Well,Contract awarded,Ad Dali
+MAH-S1-16-A,14.453852,44.686651,Well,Contract awarded,Al Mahwit
+MAH-S1-31-C,15.747809,43.508444,Well,Contract awarded,Al Mahwit
+MAH-S1-32-A,15.74269986,43.53308703,Well,Contract awarded,Al Mahwit
+MAH-S1-32-B,13.78193,45.14926,Well,Contract awarded,Al Mahwit
+MAH-S1-32-C,13.92253,45.25088,Well,Contract awarded,Al Mahwit
+MAH-S1-32-F,13.583384,45.010142,Well,Contract awarded,Al Mahwit
+DMR-S1-54,13.672307,44.852096,Well,Contract awarded,Dhamar
+HAJ-S1-84-A,13.667234,44.850743,Well,Contract awarded,Hajjah
+HAJ-S1-84-C,13.660299,44.847802,Well,Contract awarded,Hajjah
+LAH-U1-04,13.488051,44.957577,Well,Contract awarded,Lahj
+LAH-U1-09,15.44955,43.64851,Well,Contract awarded,Lahj
+LAH-U2-19,15.426821,43.401974,Well,Contract awarded,Lahj
+LAH-U2-20,15.419568,43.456018,Well,Contract awarded,Lahj
+LAH-U2-21-A,15.410521,43.452721,Well,Contract awarded,Lahj
+LAH-U2-21-B,15.399525,43.453747,Well,Contract awarded,Lahj
+LAH-U2-22,15.38679,43.44059,Well,Contract awarded,Lahj
+MRB-S1-01,15.009426,45.311553,Well,Contract awarded,Ma'rib
+MRB-S1-02,14.646799,45.353683,Well,Contract awarded,Ma'rib
+MRB-S1-03,15.023575,45.192193,Well,Contract awarded,Ma'rib
+SAN-S1-87,15.09525,43.78517,Well,Contract awarded,Sana'a
+SAN-S1-94,15.08715,43.77888,Well,Contract awarded,Sana'a
+SAN-S1-78-A,15.158106,44.103554,Well,Contract awarded,Sana'a
+SAN-S1-78-B,15.13074,44.010994,Well,Contract awarded,Sana'a
+TAZ-U2-22,13.23257,44.03476,Well,Contract awarded,Taiz
+TAZ-U2-29-A,13.19187,43.93111,Well,Contract awarded,Taiz
+TAZ-U2-29-B,13.18804,43.91827,Well,Contract awarded,Taiz
+TAZ-U2-31,13.33904,44.09245,Well,Contract awarded,Taiz
+TAZ-U2-33,13.21373,43.97944,Well,Contract awarded,Taiz
+TAZ-U2-34,13.18008,44.10063,Well,Contract awarded,Taiz
+TAZ-U2-36,13.18728,43.93435,Well,Contract awarded,Taiz
+ABY-VC-01,16.179468,52.210159,Vaccine,Contract awarded,Abyan
+HUD-VC-03,13.58788,43.98777,Vaccine,Contract awarded,Al Hodeidah
+HUD-VC-04,15.466361,45.316986,Vaccine,Contract awarded,Al Hodeidah
+HUD-VC-02,14.68395,43.295197,Vaccine,Contract awarded,Al Hodeidah
+MHR-VC-01,13.515978,46.713505,Vaccine,Contract awarded,Al Maharah
+AMA-VC-01,15.175933,44.330267,Vaccine,Contract awarded,Amanat Al Asimah
+HAJ-VC-02,14.127572,43.402309,Vaccine,Contract awarded,Hajjah
+IBB-VC-03,15.86136,43.40573,Vaccine,Contract awarded,Ibb
+MRB-VC-01,14.111183,44.440733,Vaccine,Contract awarded,Ma'rib
+SAD-VC-01,15.618717,44.227533,Vaccine,Under Design,Sa'dah
+SAN-VC-03,13.761467,43.7988927,Vaccine,Contract awarded,Sana'a
+SAN-VC-02,15.296122,44.247552,Vaccine,Contract awarded,Sana'a
+TAZ-VC-02,14.819233,42.9635,Vaccine,Contract awarded,Taiz
+TAZ-VC-01,16.934838,43.752316,Vaccine,Contract awarded,Taiz
+ABY-HF-21,14.472305,49.03326,Clinic,Contract awarded,Abyan
+MHR-HF-06,16.211832,52.189939,Clinic,Contract awarded,Al Maharah
+HAD-HF-20,15.839495,48.455342,Clinic,Contract awarded,Hadramawt
+HAD-HF-21,15.9552065,48.79649118,Clinic,Contract awarded,Hadramawt
+HAD-SCH-11,13.585845,44.022676,School,Contract awarded,Hadramawt
+SHA-HF-17,15.03688,45.84817,Clinic,Contract awarded,Shabwah
+TAZ-HF-35,13.887106,45.85901,Clinic,Contract awarded,Taiz
+MAH-S1-02-B,15.579985,43.603552,Well,Tender launched,Al Mahwit
+MAH-S1-02-C,15.579556,43.603084,Well,Tender launched,Al Mahwit
+MAH-S1-20-C,15.58245327,43.596862,Well,Tender launched,Al Mahwit
+MAH-S1-30-B,15.57714,43.607542,Well,Tender launched,Al Mahwit
+MAH-S1-30-C,14.0367,44.50209,Well,Tender launched,Al Mahwit
+MAH-S1-33-C,15.4626,43.49066,Well,Tender launched,Al Mahwit
+HAJ-S1-64-A,15.446071,43.493807,Well,Tender launched,Hajjah
+HAJ-S1-64-B,15.48465833,43.50574167,Well,Tender launched,Hajjah
+HAJ-S1-64-C,15.48777,43.80793,Well,Tender launched,Hajjah
+HAJ-S1-64-C1,15.50269,43.78954,Well,Tender launched,Hajjah
+IBB-S1-21-B,15.51897167,43.620385,Well,Tender launched,Ibb
+ABY-U2-10,14.177776,46.336118,Well,Tender launched,Abyan
+IBB-S1-22,14.02362,44.50064,Well,Tender launched,Ibb
+LAH-U2-15,13.44987,44.97794,Well,Tender launched,Lahj
+LAH-U2-26,13.642798,44.848175,Well,Tender launched,Lahj
+LAH-U2-28-B,13.652708,44.875979,Well,Tender launched,Lahj
+LAH-U2-28-C,13.665547,44.892676,Well,Tender launched,Lahj
+LAH-U2-28-D,13.673478,44.906873,Well,Tender launched,Lahj
+LAH-U2-29,13.895374,45.309213,Well,Tender launched,Lahj
+SHA-U2-12,14.403116,47.272595,Well,Tender launched,Shabwah
+SHA-U2-13,14.27552,47.54691,Well,Tender launched,Shabwah
+SQT-U2-05-A,12.634958,54.027306,Well,Tender launched,Socotra
+SQT-U2-05-A1,12.634958,54.027306,Well,Tender launched,Socotra
+SQT-U2-06-A,12.649563,54.039676,Well,Tender launched,Socotra
+SQT-U2-06-A1,12.649563,54.039676,Well,Tender launched,Socotra
+SAN-VC-04,15.382628,44.198969,Vaccine,Under Design,Sana'a
+DMR-VC-03,14.792281,44.289472,Vaccine,Under Design,Dhamar
+ADN-VC-01,12.859842,44.990047,Vaccine,Under Design,Aden
+HAJ-VC-02,13.874628,45.247205,Vaccine,Under Design,Lahj
+ABY-VC-01,13.208333,45.309167,Vaccine,Under Design,Abyan
+ABY-U2-16,14.00177,45.983024,Well,Under Design,Abyan
+ABY-U2-17,13.884854,45.800702,Well,Under Design,Abyan
+ABY-U2-22,13.856235,45.782187,Well,Under Design,Abyan
+DAL-U2-24,13.827903,44.882982,Well,Under Design,Ad Dali
+DAL-U2-27,13.857718,44.854706,Well,Under Design,Ad Dali
+DAL-U2-28,13.833401,44.895917,Well,Under Design,Ad Dali
+DAL-U2-29,13.875459,44.760536,Well,Under Design,Ad Dali
+DAL-U2-30,13.940296,44.693617,Well,Under Design,Ad Dali
+DAL-U2-31,13.817099,44.626879,Well,Under Design,Ad Dali
+MAH-S1-16-C,13.71951,44.823235,Well,Under Design,Al Mahwit
+AMR-S1-66,15.682834523,48.128798,Well,Under Design,Amran
+AMR-S1-67,13.59186,44.895914,Well,Under Design,Amran
+AMR-S1-71,15.673082,45.118955,Well,Under Design,Amran
+AMR-S1-73-A,14.9232517,45.4371636936,Well,Under Design,Amran
+AMR-S1-73-B,15.219816,46.990722,Well,Under Design,Amran
+DMR-S1-66,14.345154,47.339303,Well,Under Design,Dhamar
+DMR-S1-55,14.540021,46.901372,Well,Under Design,Dhamar
+DMR-S1-56,14.5686539,44.2619174,Well,Under Design,Dhamar
+DMR-S1-63,15.98960095,43.60679445,Well,Under Design,Dhamar
+HAD-U2-12,15.834172,43.968531,Well,Under Design,Hadramawt
+IBB-S1-15-B,15.57569,43.974636,Well,Under Design,IBB
+LAH-U2-18,15.911205,44.064772,Well,Under Design,Lahj
+LAH-U2-23,15.911256,44.064857,Well,Under Design,Lahj
+MRB-U2-02,14.600941,44.118391,Well,Under Design,Ma'rib
+MRB-U2-06,14.411771,44.687928,Well,Under Design,Ma'rib
+SAN-S1-95,14.742903,44.05473,Well,Under Design,Sana'a
+SHA-U2-14,14.158101,44.462242,Well,Under Design,Shabwah
+SHA-U2-15,15.47118298,43.63704742,Well,Under Design,Shabwah
+SHA-U2-16,15.22747,44.70396,Well,Under Design,Shabwah

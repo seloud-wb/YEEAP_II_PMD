@@ -46,6 +46,7 @@ if not st.session_state.authenticated:
 st.set_page_config(
     page_title="0_YEEAP_II_Analytics",
     layout="wide",
+    initial_sidebar_state="expanded",
 )
 
 # Initialize session data
@@ -120,7 +121,7 @@ with st.container(border=True):
     a.header("Energizing Critical Facilities")
     with b.container():
         if st.button("Open Facilities Dashboard", use_container_width=True, type='primary'):
-            st.switch_page("pages/0_YEEAP_II_-_Facilities.py")
+            st.switch_page("pages/0_Facilities_Data_Explorer.py")
 
     # --- Summary statistics ---
     st.markdown("<a name='summary-statistics'></a>", unsafe_allow_html=True)

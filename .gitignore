@@ -3,6 +3,7 @@
 # ------------------------------
 
 .ipynb
+/data/facilities_combined.csv
 
 # Byte-compiled / optimized files
 __pycache__/
