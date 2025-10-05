@@ -1,0 +1,8 @@
+streamlit>=1.37
+geopandas==0.14.3
+pandas>=2.2
+plotly>=5.20
+fiona>=1.9.6
+shapely>=2.0
+pyproj>=3.6
+rtree>=1.1
