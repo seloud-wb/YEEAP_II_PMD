@@ -1,0 +1,64 @@
+# ------------------------------
+# Python / Streamlit Project
+# ------------------------------
+
+.ipynb
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Streamlit cache and logs
+.streamlit/
+.streamlit/cache/
+.streamlit/secrets.toml
+logs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# PyCharm / VSCode project files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data and temporary outputs
+data/raw/
+data/temp/
+output/
+tmp/
+*.csv~
+*.log
+*.bak
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Test / coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Node / JS dependencies (if Streamlit Components)
+node_modules/
+
+# Other local files
+*.sqlite3
+*.db
