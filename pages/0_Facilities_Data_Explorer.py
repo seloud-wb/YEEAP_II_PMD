@@ -1,5 +1,5 @@
 import streamlit as st
-from src.facilities_helper_map import render_yemen_facility_map
+from src.facilities_helper_map_2 import render_yemen_facility_map
 
 # ---------------------------------------------------------------
 # Streamlit setup

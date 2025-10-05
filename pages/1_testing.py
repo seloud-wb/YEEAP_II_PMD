@@ -1,5 +1,5 @@
 import streamlit as st
-from src.facilities_helper_map import render_yemen_facility_map
+from src.facilities_helper_map_2 import render_yemen_facility_map
 
 # ---------------------------------------------------------------
 # Streamlit setup
@@ -10,7 +10,7 @@ st.title("Facilities Data Explorer")
 # ---------------------------------------------------------------
 # Main Map Rendering
 # ---------------------------------------------------------------
-A,B = st.columns([1,2])
+A,B = st.columns([2,3],vertical_alignment='center')
 
 with B.container(border =True):
     st.header("Yemen Facility Map")
