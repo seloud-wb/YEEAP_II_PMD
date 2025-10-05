@@ -22,6 +22,7 @@ ENV/
 .streamlit/cache/
 .streamlit/secrets.toml
 logs/
+!.streamlit/config.toml
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
