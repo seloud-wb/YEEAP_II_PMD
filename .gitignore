@@ -18,11 +18,11 @@ env/
 ENV/
 
 # Streamlit cache and logs
-.streamlit/
+.streamlit/*
+!.streamlit/config.toml  # ✅ Keep dark mode config in repo
 .streamlit/cache/
 .streamlit/secrets.toml
 logs/
-!.streamlit/config.toml
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
